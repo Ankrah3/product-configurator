@@ -46,6 +46,10 @@ Open the Vite URL shown in the terminal (normally `http://localhost:5173`). Vite
 
 To replace the fallback cube, put a glTF binary model at `client/public/models/product.glb`. The viewer centers and scales it to fit and applies the selected finish and color to its meshes. For a free CC0 model, browse [Poly Haven's model library](https://polyhaven.com/models) and download a glTF/GLB asset; Poly Haven states its models are released under CC0 ([license details](https://polyhaven.com/license)).
 
+### Model attribution
+
+Shoe model: © 2021 Shopify, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via [Khronos glTF Sample Assets - Materials Variants Shoe](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe). The model's appearance is modified at runtime by the selected color and material finish.
+
 ## Environment variables
 
 | Variable | Used by | Default | Description |
