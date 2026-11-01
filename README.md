@@ -1,4 +1,4 @@
-# Nexus 3D Product Configurator
+# Product Configurator
 
 An interactive full stack product configurator for previewing color and material finishes on a 3D product, calculating a server-authoritative price, and saving designs to SQLite.
 
